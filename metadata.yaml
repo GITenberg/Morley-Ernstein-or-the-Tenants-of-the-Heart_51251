@@ -1,5 +1,8 @@
 _repo: Morley-Ernstein-or-the-Tenants-of-the-Heart_51251
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, G. P. R. (George Payne Rainsford)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1301
     wikipedia: http://en.wikipedia.org/wiki/George_Payne_Rainsford_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51251#Morley-Ernstein-or-the-Tenants-of-the-Heart
 gutenberg_issued: '2016-02-20'
 gutenberg_type: Text
 identifiers:
